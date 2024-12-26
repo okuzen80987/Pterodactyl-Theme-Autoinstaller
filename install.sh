@@ -441,7 +441,7 @@ EOF
 }
 # Main script
 display_welcome
-install_jq
+
 
 
 while true; do
