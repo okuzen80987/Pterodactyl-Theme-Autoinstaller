@@ -87,7 +87,7 @@ install_theme() {
     echo "2. billing"
     echo "3. enigma"
     echo "x. kembali"
-    echo -e "masukan pilihan (1/2/3/x) :"
+    echo "masukan pilihan (1/2/3/x) :"
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
